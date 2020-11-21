@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\BMS\BMS\obj\Debug\netcoreapp3.1\BMS.csprojAssemblyReference.cache
+C:\Users\user\source\repos\BMS\BMS\obj\Debug\netcoreapp3.1\BMS.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\BMS\BMS\obj\Debug\netcoreapp3.1\BMS.AssemblyInfo.cs
+C:\Users\user\source\repos\BMS\BMS\obj\Debug\netcoreapp3.1\BMS.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BMS\BMS\bin\Debug\netcoreapp3.1\BMS.exe
+C:\Users\user\source\repos\BMS\BMS\bin\Debug\netcoreapp3.1\BMS.deps.json
+C:\Users\user\source\repos\BMS\BMS\bin\Debug\netcoreapp3.1\BMS.runtimeconfig.json
+C:\Users\user\source\repos\BMS\BMS\bin\Debug\netcoreapp3.1\BMS.runtimeconfig.dev.json
+C:\Users\user\source\repos\BMS\BMS\bin\Debug\netcoreapp3.1\BMS.dll
+C:\Users\user\source\repos\BMS\BMS\bin\Debug\netcoreapp3.1\BMS.pdb
+C:\Users\user\source\repos\BMS\BMS\obj\Debug\netcoreapp3.1\BMS.dll
+C:\Users\user\source\repos\BMS\BMS\obj\Debug\netcoreapp3.1\BMS.pdb
+C:\Users\user\source\repos\BMS\BMS\obj\Debug\netcoreapp3.1\BMS.genruntimeconfig.cache
